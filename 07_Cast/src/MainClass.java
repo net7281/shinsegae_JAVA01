@@ -11,7 +11,7 @@ public class MainClass {
 			long	8
 			
 			float	4
-			dobel	8
+			double	8
 			
 			
 			auto(자동) 형변환, cast(강제) 형변환
@@ -33,7 +33,7 @@ public class MainClass {
 		
 		double result;
 		result = 3/2; // 1.0
-		// 왜? 이미 3/2 에서 int로 계산 = 답 1 > 자동 형 변환으로 doule됨 = 1.0
+		// 왜? 이미 3/2 에서 int로 계산 = 답 1 > 자동 형 변환으로 double됨 = 1.0
 		
 		
 		result = (double)3/2;
