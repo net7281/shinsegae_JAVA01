@@ -30,7 +30,7 @@ public class MainClass {
 //			}
 //		}
 //		average = (float)total/count;
-//		System.out.println("totat="+total);
+//		System.out.println("total="+total);
 //		System.out.println("average="+average);
 		
 		
